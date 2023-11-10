@@ -3,6 +3,9 @@
   "extends": [
     "config:recommended"
   ],
+  "schedule": [
+    "before 2am on Monday"
+  ],
   "groupName": "all dependencies",
   "groupSlug": "all",
   "lockFileMaintenance": {
